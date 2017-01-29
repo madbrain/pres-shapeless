@@ -1,0 +1,25 @@
+{
+  "name": "pres-shapeless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madbrain/pres-shapeless.git"
+  },
+  "author": "Ludovic L'HOURS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madbrain/pres-shapeless/issues"
+  },
+  "homepage": "https://github.com/madbrain/pres-shapeless#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-useref": "^3.1.0"
+  }
+}
